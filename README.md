@@ -7,7 +7,9 @@ Download and install it, I'll wait ....
 To build and exercise the code:
 
 export JAVA_HOME=/path/to/java
+
 export PATH=$PATH:/path/to/gradle
+
 gradle build
 
 DONE!
